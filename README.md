@@ -5,10 +5,10 @@ Data and analytical code associated with Edwards et al 2025 "Warming disrupts pl
 File designations are below:
 
 2025EndophyteWarming.R 
--R code for preforming analysis and generating figures in manuscript
+-R code for performing analysis and generating figures in manuscript
 
 WarmingEndo_meta.csv 
--Metadata and root colonzation values
+-Metadata and root colonization values
 
 WarmingEndo_OTU.csv
 -Species by site table of read counts for fungal OTUs with associated taxonomy and functional guild assignments
